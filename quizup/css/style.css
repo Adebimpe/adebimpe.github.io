@@ -74,12 +74,26 @@ a.quiz-link{
 .header__banner .col-lg-6:nth-child(1) h1{
     font-size: 3rem;
 }
-.features{
-    height: 700px;
+.features__section{
+    height: 500px;
     background-color: #6E23FF;
 }
-.features h3{
+.features__section h3{
     color: #fff;
     text-align: center;
     padding-top:40px;
+}
+.subjects__section{
+    height: 700px;
+    text-align: center;
+    padding-top: 40px;
+}
+.subjects__section h3{
+    color: #6E23FF;
+    
+}
+.quiz__cta{
+    color: #fff;
+    background-color: #2E2446;
+    height: 150px;
 }
