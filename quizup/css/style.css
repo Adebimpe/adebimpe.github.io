@@ -42,6 +42,7 @@ a.quiz-link{
 }
 .header__banner{
     margin-top: 150px;
+    margin-bottom: 150px;
     overflow-x: hidden;
 }
 .header__banner h1{
@@ -64,4 +65,13 @@ a.quiz-link{
 
 .header__banner .col-lg-6:nth-child(1) h1{
     font-size: 3rem
+}
+.features{
+    height: 700px;
+    background-color: #6E23FF;
+}
+.features h3{
+    color: #fff;
+    text-align: center;
+    padding-top:40px
 }
