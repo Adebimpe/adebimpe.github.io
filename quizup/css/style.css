@@ -96,4 +96,15 @@ a.quiz-link{
     color: #fff;
     background-color: #2E2446;
     height: 150px;
+    text-align: center; 
+}
+.quiz__cta p{
+    padding-top:30px !important;
+}
+footer{
+    height: 50px;
+    padding-top:10px;
+}
+footer .col-lg-6:nth-child(2){
+    text-align: right;
 }
